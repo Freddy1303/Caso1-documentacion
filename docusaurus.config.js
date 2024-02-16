@@ -63,7 +63,7 @@ const config = {
         title: '',
         logo: {
           alt: 'Documentación de Chat Buho',
-          src: 'https://buho.la/images/chat/chat-buho.svg',
+          src: 'https://fraternitysororitysvg.com/assets/images/products/Among-Us-Svg.png',
         },
         items: [
           // {
